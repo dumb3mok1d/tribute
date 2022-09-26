@@ -1,0 +1,39 @@
+
+body {
+  background-color: lightpink;
+  }
+
+.myimg{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+}
+#summary{
+  border: solid black 2px ;
+  background-color: lightcoral;
+}
+
+#Facts{
+  border: solid black 2px ;
+  background-color: lightcoral;
+}
+
+ul{
+  display: table ;
+  margin: 0 auto;
+  background-color: lightcoral;
+  height: 50%;
+}
+
+li{
+  text-align: left;
+  
+  background-color: lightcoral ;
+}
+
+p{
+  display: table ;
+  margin: 0 auto;
+  background-color: lightcoral;
+  padding:  30;
